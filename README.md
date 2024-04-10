@@ -213,12 +213,12 @@ Here’s what patients have to say:
 ```
 
 ## OUTPUT
-![alt text](<Screenshot 2024-03-27 211620.png>)
-![alt text](<Screenshot 2024-03-27 211634.png>) 
-![alt text](<Screenshot 2024-03-27 211647.png>)
-![alt text](<Screenshot 2024-03-27 211700.png>)
-![alt text](<Screenshot 2024-03-27 211718.png>)
-![alt text](<Screenshot 2024-03-27 211735.png>) 
+![alt text](<Screenshot 2024-04-10 085429.png>)
+![alt text](<Screenshot 2024-04-10 085442.png>)
+![alt text](<Screenshot 2024-04-10 085546.png>)
+![alt text](<Screenshot 2024-04-10 085558.png>)
+![alt text](<Screenshot 2024-04-10 085613.png>)
+![alt text](<Screenshot 2024-04-10 085627.png>)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
